@@ -20,6 +20,8 @@ A)Vamos dobrar?
 Neste cenário, o serivdor dobra a sua memória ram,mas mantém o mesmo nível de acessos, as requsições de memória terão demandas para serem atendidas, reduzindo a criação de memória virtual/swap, o cpu poderá dedicar mais procesessamento para criação dos "MAPAS" para o TBL, o TBL miss irá diminuir e a o page fault irá reduzir, logo o servidor irá rodar de maneira mais fluida reduzindo os erros e aumentando a velocidade.
 Uma excelente analogia seria tentar esvaziar uma caixa d'água com uma cano de 5mm de diametro e esvaziar a mesma caixa d'agua com um cano de 10mm. Ela erá esvaziar muito mais rápido.
 
+![Mapa Mental](mapa-mental.drawio.svg)
+
 REFERENCIAS
 
 GEEKSFORGEEKS. Page Fault Handling. Disponível em: https://www.geeksforgeeks.org/computer-organization-architecture/page-fault-handling/. Acesso em: 22 out. 2026.
