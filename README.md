@@ -1,6 +1,6 @@
 # diario_bordo_sist_op4
 José Flávio Xavier 253576472
-Gabriel Castro
+Gabriel Castro 25203195-2
 
 Parte A: O Fenômeno da Paginação e o Gargalo do Disco
 
